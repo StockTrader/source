@@ -1,6 +1,6 @@
 <%@ Control Language="C#" AutoEventWireup="false"  CodeFile="Header.ascx.cs" Inherits="Trade.Web.Header" %>
 <%@ OutputCache Duration ="30" VaryByParam="none" %>
-<!--------------------------The Common Header + Order Alert ASP.NET User Control --------------> 
+<!--------------------------Example The Common Header + Order Alert ASP.NET User Control --------------> 
 <table class= "HeaderTableStyle">
     <tr>
 		<td><img alt="" src="Images/dotnet_logo.jpg" height="63"/></td>
