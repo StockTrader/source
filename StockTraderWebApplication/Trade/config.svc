@@ -1,0 +1,1 @@
+<% @ServiceHost language = "c#" Debug="false" Factory="ServiceConfigurationHelper.ConfigurationServiceHostFactory" %>
