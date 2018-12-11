@@ -8,3 +8,5 @@ This folder holds the source code.
 Update
 
 for Hermann
+
+aws_api_key=12asdfeek
